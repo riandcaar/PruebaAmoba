@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">PruebaAmoba</string>
+    <string name="login_screen_title_text">BIENVENIDO ESPECIALISTA</string>
+    <string name="login_screen_email_hint">Dirección de email</string>
+    <string name="login_screen_password_hint">Tu contraseña</string>
+    <string name="login_button_text">INICIAR SESIÓN</string>
+    <string name="forgot_password_link_text">¿Olvidaste tu contraseña?</string>
+    <string name="patient_list_screen_title_text">PACIENTES ACTUALES</string>
+    <string name="active_patient_status_text">Paciente Actual</string>
+    <string name="inactive_patient_status_text">Paciente Inactivo</string>
+    <string name="patient_id_prefix">"C.I. "</string>
+    <string name="patient_year_sufix">" años"</string>
+    <string name="patient_month_sufix">" meses"</string>
+    <string name="age_subtitle">Edad</string>
+    <string name="sex_subtitle">Sexo</string>
+    <string name="address_subtitle">Dirección</string>
+    <string name="patient_map_location_link_text">Ver ubicación en mapa</string>
+    <string name="go_to_map_subtitle">Ir a mapa</string>
+    <string name="mobile_subtitle">Mobile</string>
+    <string name="buy_ticket_button_text">Comprar ticket</string>
+    <string name="no_password_or_no_user_error">Favor ingresa un correo y contraseña</string>
+    <string name="yes_text">Si</string>
+    <string name="no_text">No</string>
+    <string name="close_session_text">¿Deseas cerrar sesión?</string>
+    <string name="transaction_pending_text">Pendiente</string>
+    <string name="transaction_complete_text">Exitosa</string>
+    <string name="payment_amount_subtitle_text">Valor a cancelar</string>
+    <string name="payment_status_subtitle_text">Estatus de la transacción</string>
+    <string name="patient_location_prefix">Ubicación de %1$s</string>
+    <string name="check_transaction_status_button_text">Consultar</string>
+
+    /**Error Messages*/
+    <string name="credentials_validation_error">El ingreso falló, revisa tus credenciales o intenta de nuevo mas tarde</string>
+    <string name="document_fetch_error">No se pudo acceder a los datos, intentalo de nuevo mas tarde</string>
+    <string name="generic_error_messsage">Error de conexión, intentalo de nuevo mas tarde</string>
+    <string name="no_internet_outdated_patient_list_warning_text">Sin conexión a internet, la lista de pacientes no esta actualizada</string>
+    <string name="no_patient_list_warning_text">No se pudo obtener la lista de pacientes</string>
+    <string name="transaction_error">No se pudo generar la transacción</string>
+    <string name="transaction_in_progress_warning_text">transacción en progreso, permanezca en la página</string>
+
+
+</resources>

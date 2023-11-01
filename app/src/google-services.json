@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "637365194273",
+    "project_id": "amobatakehome",
+    "storage_bucket": "amobatakehome.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:637365194273:android:4e8f564a2ecab49d375d60",
+        "android_client_info": {
+          "package_name": "com.felipecoronado.pruebaamoba"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrWwfcbe3SAxsNRAUzJuGPzwjimrPQatM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
